@@ -1,0 +1,24 @@
+{
+  "name": "siret.js",
+  "main": "siret.js",
+  "authors": [
+    "jo <jo@surikat.pro>"
+  ],
+  "description": "calculer le numéro de TVA intracommunautaire à partir du n° SIREN + algorythme de Luhn  etc...",
+  "keywords": [
+    "siret",
+    "siren",
+    "tva",
+    "intracommunautaire",
+    "luhn"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/redcatphp/siret.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
